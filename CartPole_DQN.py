@@ -3,6 +3,7 @@
 # @Author : yysgz
 # @File : CartPole_DQN.py
 # @Project : RL_models
+# @Description : https://blog.csdn.net/BIT_csy/article/details/124557798
 
 import gym
 from matplotlib import animation  # 动画
