@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2024/4/15 22:01
 # @Author : yysgz
-# @File : toy_env.py
+# @File : ball_env.py
 # @Project : REINFORCE_tf2.py
 # @Description :
 
